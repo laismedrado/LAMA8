@@ -1,0 +1,32 @@
+###
+POST http://localhost:3000/user/signup
+Content-Type: application/json
+
+{
+  "name": "fuki",
+  "email": "fugi@email.com",
+  "password": "12gt45susi",
+  "role": "ADMIN"
+}
+
+###
+POST http://localhost:3000/user/login
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhY2I1ZmNhLTk2YzItNDRmNi04MDM0LTlkMjVkMWVkMjYwNiIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTY1Njk4MjA2MywiZXhwIjoxNjU2OTgyNjYzfQ.tLwAZArw4kj6jehponK4uURzujTL3p_Wx5mREDZ-uTQ
+Content-Type: application/json
+
+{
+  "email": "sjkjkuui@email.com",
+  "password": "uuusi@email.com"
+}
+
+###
+POST http://localhost:3000/band/band
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhY2I1ZmNhLTk2YzItNDRmNi04MDM0LTlkMjVkMWVkMjYwNiIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTY1NzA2NzYxOCwiZXhwIjoxNjU3MDY4MjE4fQ.jnPPoNo37ZANJbs69ASFAXXHGTA3dZOyJ_ok7j-dWgQ
+Content-Type: application/json
+
+{
+  "name": "Banda 1",
+  "musicGenre": "eletrônica",
+  "responsible": "Natany"
+}
+
