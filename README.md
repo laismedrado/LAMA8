@@ -13,7 +13,7 @@
     🚨 Sobre 
 </br>
 
-Este é um projeto elaborado em equipe  que busca reproduzir as  funcionalidades de um sistema para o gerenciamento completo de shows musicais. Consistindo basicamente no desenvolvimento de um backend voltado para  um padrão de arquitetura de microserviços e integrado com o banco de dados MySql. 
+Projeto que busca reproduzir as  funcionalidades de um sistema para o gerenciamento completo de shows musicais. Consistindo basicamente no desenvolvimento de um backend voltado para  um padrão de arquitetura de microserviços e integrado com o banco de dados MySql. 
 
 </BR>
 
@@ -22,15 +22,6 @@ Este é um projeto elaborado em equipe  que busca reproduzir as  funcionalidades
 </BR>
 
 
-    TIME
-</div>
-<ul>      
-<a href="https://github.com/karlanatany"><li>Karla Natany Gonçalves Bolzoni</li></a>
-<a href ="https://github.com/laismedrado"><li>Laís Medrado Soares da Silva</li></a>
-<a href ="https://github.com/LTxai"><li>Lucas Txai Medeiros da Fonceca</li></a>
-</ul>
-</BR>
- 
 
      🖋 Funcionalidades
 
